@@ -3,14 +3,14 @@ When preparing for a data science interview, it's essential to have a solid unde
 
 - __Statistics and Probability:__
 
-  - [ ] Descriptive statistics: mean, median, mode, variance, standard deviation.
-  - [ ] Probability concepts: conditional probability, Bayes' theorem, random variables, distributions (normal, binomial, Poisson).
-  - [ ] Hypothesis testing: null and alternative hypotheses, p-values, confidence intervals.
+  - [x] Descriptive statistics: mean, median, mode, variance, standard deviation.
+  - [x] Probability concepts: conditional probability, Bayes' theorem, random variables, distributions (normal, binomial, Poisson).
+  - [x] Hypothesis testing: null and alternative hypotheses, p-values, confidence intervals.
 - __Machine Learning:__
 
   - [x] Supervised learning: regression (linear regression, logistic regression), classification (decision trees, random forests, support vector machines).
-  - [ ] Unsupervised learning: clustering (k-means, hierarchical clustering), dimensionality reduction (principal component analysis, t-SNE).
-  - [ ] Evaluation metrics: accuracy, precision, recall, F1-score, ROC curve, AUC-ROC.
+  - [x] Unsupervised learning: clustering (k-means, hierarchical clustering), dimensionality reduction (principal component analysis, t-SNE).
+  - [x] Evaluation metrics: accuracy, precision, recall, F1-score, ROC curve, AUC-ROC.
   - [x] Overfitting, underfitting, regularization techniques (L1/L2 regularization).
 - __Programming and Data Manipulation:__
 
