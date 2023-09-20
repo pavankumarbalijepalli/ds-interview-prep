@@ -24,12 +24,12 @@ When preparing for a data science interview, it's essential to have a solid unde
   - [x] Exploratory data analysis (EDA): summary statistics, data visualization, handling missing values, outliers.
   - [x] Feature selection and extraction techniques.
   - [x] Dealing with imbalanced datasets.
-  - [ ] Time series analysis and forecasting.
-  - [ ] A/B testing and experimental design.
+  - [x] Time series analysis and forecasting.
+  - [x] A/B testing and experimental design.
 - __Big Data and Distributed Computing:__
 
   - [ ] Understanding of distributed computing frameworks: Hadoop, Spark.
-  - [ ] Familiarity with cloud platforms: AWS, Azure, Google Cloud.
+  - [x] Familiarity with cloud platforms: AWS, Azure, Google Cloud.
   - [ ] Handling large datasets and parallel processing.
   - [ ] MapReduce paradigm and its applications.
 - __Deep Learning and Neural Networks:__
